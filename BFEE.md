@@ -1,6 +1,7 @@
 # Energy_calculations using BFEE
 BFEE: A User-Friendly Graphical Interface Facilitating Absolute Binding Free-Energy Calculations
-########################################################################################################################################
+######################################################################################################################################
+https://github.com/fhh2626/Binding-free-energy-estimator-BFEE-/blob/main/bfee.tcl 
 Installation guide:
 (Windows)
 1) Create a "…\VMD\plugins\noarch\tcl\bfee" directory
