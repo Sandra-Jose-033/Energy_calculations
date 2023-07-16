@@ -23,7 +23,7 @@ vmd_install_extension BFEEstimator bfee_tk "My Plugins/BFEE"
 5) Run VMD, the plugin is accessible via the following Menu sequence:
 Extensions -> My Plugins -> BFEE
 ########################################################################################################################################
-BFEE -----> bfee.tcl
+#BFEE -----> bfee.tcl
 
 ##
 ## Binding Free Energy Estimator v1.1
